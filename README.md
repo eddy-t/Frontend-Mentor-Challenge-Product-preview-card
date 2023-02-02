@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-card-product-preview-using-bootstrap-and-javascript-wn_30gIQzu
 - Live Site URL: https://eddy-t.github.io/Frontend-Mentor-Challenge-Product-preview-card/
 
 
